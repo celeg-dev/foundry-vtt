@@ -7,7 +7,7 @@
     "minimumCoreVersion": "0.5.0",
     "scripts": ["scripts/card-holder.js"],
     "url": "https://github.com/celeg-dev/foundry-vtt/card-holder",
-    "manifest": "https://raw.githubusercontent.com/celeg-dev/foundry-vtt/master/card-holder/module.json",
+    "manifest": "https://raw.githubusercontent.com/celeg-dev/foundry-vtt/master/gloom_system/system.json",
     "download": "https://github.com/celeg-dev/foundry-vtt/archive/master.zip"
   }
 
