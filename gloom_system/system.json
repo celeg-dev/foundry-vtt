@@ -8,10 +8,10 @@
     "author": "celeg",
     "templateVersion": 2,
     "esmodules": [
-        
+        "gloom.js"
     ],
     "styles": [
-        
+        "gloom.css"
     ],
     "scripts": [],
     "packs": [

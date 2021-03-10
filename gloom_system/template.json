@@ -1,0 +1,32 @@
+{
+    "Actor":{
+        "types":[
+            "friendly",
+            "monster"
+            
+        ],
+        "templates":{
+            "actorDescription":{
+                "description":""
+            }
+
+        },
+        "firendly":{
+            "templates":"actorDescription",
+            "health":8,
+            "Level":1,
+            "Cards":12
+
+        }
+    },
+    "Item":{
+        "types": [
+           "weapon" 
+        ],
+        "weapon":{
+            "demage":0
+        }
+    }
+
+
+}
