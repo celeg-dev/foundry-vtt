@@ -28,7 +28,7 @@
     "initiative": "1d20",
     "url": "",
     "manifest": "https://raw.githubusercontent.com/celeg-dev/foundry-vtt/master/gloom_system/system.json",
-    "download": "https://github.com/pwatson100/alienrpg/releases/download/1.2.26/master.zip",
+    "download": "https://github.com/celeg-dev/foundry-vtt/archive/master.zip",
     "socket": true
-    
+
 }
