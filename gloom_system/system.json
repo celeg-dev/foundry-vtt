@@ -2,7 +2,7 @@
     "name": "gloom_system",
     "title": "Gloomhaven",
     "description": "I give it a try, to make Gloomhaven run on Foundry vtt",
-    "version": "0.0.2",
+    "version": "0.0.2a",
     "minimumCoreVersion": "0.5.7",
     "compatibleCoreVersion": "0.7.9",
     "author": "celeg",
