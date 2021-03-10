@@ -1,0 +1,14 @@
+{
+    "name": "card-holder",
+    "title": "Card Holder - Test",
+    "description": "A simple module created as a demo for working in the Foundry Virtual Tabletop framework.",
+    "author": "celeg",
+    "version": "0.0.1",
+    "minimumCoreVersion": "0.5.0",
+    "scripts": ["scripts/card-holder.js"],
+    "url": "https://github.com/syl3r86/roll20npcimporter",
+    "manifest": "https://raw.githubusercontent.com/syl3r86/roll20npcimporter/master/module.json",
+    "download": "https://github.com/syl3r86/roll20npcimporter/archive/master.zip"
+  }
+
+  
