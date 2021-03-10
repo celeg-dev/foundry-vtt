@@ -18,7 +18,7 @@
   "keywords": [],
   "socket": false,
   "url": "",
-  "manifest": "https://gitlab.com/peginc/dlww-blood-on-the-range/-/raw/master/world.json",
+  "manifest": "https://raw.githubusercontent.com/celeg-dev/foundry-vtt/master/gloom-world/world.json",
   "download": "https://gitlab.com/peginc/dlww-blood-on-the-range/-/raw/master/dlww-blood-on-the-range-v1.0.1.zip",
   "license": "",
   "readme": "",
