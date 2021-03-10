@@ -26,8 +26,8 @@
     "primaryTokenAttribute": "health",
     "secondaryTokenAttribute": "stress",
     "initiative": "1d20",
-    "url": "https://github.com/pwatson100/alienrpg",
-    "manifest": "https://raw.githubusercontent.com/pwatson100/alienrpg/master/system.json",
+    "url": "",
+    "manifest": "https://raw.githubusercontent.com/celeg-dev/foundry-vtt/master/gloom_system/system.json",
     "download": "https://github.com/pwatson100/alienrpg/releases/download/1.2.26/master.zip",
     "socket": true
 }
