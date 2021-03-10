@@ -1,0 +1,40 @@
+{
+  "name": "glom-world",
+  "title": "Gloomhaven World",
+  "description": "<p>I give it a try, to make gloomhaven to play on foundry vtt ;-) </p>",
+  "version": "0.0.1",
+  "minimumCoreVersion": "0.7.5",
+  "compatibleCoreVersion": "0.7.9",
+  "scripts": [],
+  "esmodules": [
+      ],
+  "styles": [
+      ],
+  "packs": [],
+  "languages": [],
+  "authors": [
+    "celeg"
+  ],
+  "keywords": [],
+  "socket": false,
+  "url": "",
+  "manifest": "https://gitlab.com/peginc/dlww-blood-on-the-range/-/raw/master/world.json",
+  "download": "https://gitlab.com/peginc/dlww-blood-on-the-range/-/raw/master/dlww-blood-on-the-range-v1.0.1.zip",
+  "license": "",
+  "readme": "",
+  "bugs": "",
+  "changelog": "",
+  "background": "",
+  "system": "",
+  "coreVersion": "0.7.9",
+  "systemVersion": "",
+  "dependencies": [
+    {
+      "name": "gloom",
+      "type": "system"
+    }
+  ],
+  "nextSession": "1970-01-01T00:00:00.000Z",
+  "availability": 0,
+  "unavailable": false
+}
