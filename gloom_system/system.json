@@ -1,0 +1,33 @@
+{
+    "name": "gloom_system",
+    "title": "Gloomhaven",
+    "description": "I give it a try, to make Gloomhaven run on Foundry vtt",
+    "version": "0.0.1",
+    "minimumCoreVersion": "0.5.7",
+    "compatibleCoreVersion": "0.7.9",
+    "author": "celeg",
+    "templateVersion": 2,
+    "esmodules": [
+        
+    ],
+    "styles": [
+        
+    ],
+    "scripts": [],
+    "packs": [
+        
+    ],
+    "languages": [
+        
+        
+    ],
+    "gridDistance": 2,
+    "gridUnits": "ft",
+    "primaryTokenAttribute": "health",
+    "secondaryTokenAttribute": "stress",
+    "initiative": "1d20",
+    "url": "https://github.com/pwatson100/alienrpg",
+    "manifest": "https://raw.githubusercontent.com/pwatson100/alienrpg/master/system.json",
+    "download": "https://github.com/pwatson100/alienrpg/releases/download/1.2.26/master.zip",
+    "socket": true
+}
