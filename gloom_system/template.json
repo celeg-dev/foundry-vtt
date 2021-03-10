@@ -21,10 +21,14 @@
     },
     "Item":{
         "types": [
-           "weapon" 
+           "weapon",
+           "posion" 
         ],
         "weapon":{
             "demage":0
+        },
+        "posion":{
+            "health":0
         }
     }
 
